@@ -69,3 +69,16 @@ while True:
 
 # After coming out of the while loop, print thanks for playing
 print("Thanks for playing! & Play Again")
+
+Examples Output 
+
+Winning rules of the game ROCK PAPER SCISSORS are:
+Rock vs Paper -> Paper wins 
+Rock vs Scissors -> Rock wins 
+Paper vs Scissors -> Scissors wins 
+
+Enter your choice 
+ 1 - Rock 
+ 2 - Paper 
+ 3 - Scissors 
+
